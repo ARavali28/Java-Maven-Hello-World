@@ -1,3 +1,4 @@
+<!DOCTYPE>
 <html>
 <head>
 <title>Hello World!</title>
@@ -11,3 +12,5 @@
 		You are coming from
 		<%= request.getRemoteAddr()  %></p>
 </body>
+</html>	
+	
